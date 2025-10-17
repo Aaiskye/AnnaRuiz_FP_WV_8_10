@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\9.While\bin\Debug\net8.0\9.While.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\9.While\bin\Debug\net8.0\9.While.deps.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\9.While\bin\Debug\net8.0\9.While.runtimeconfig.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\9.While\bin\Debug\net8.0\9.While.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\9.While\bin\Debug\net8.0\9.While.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\9.While\obj\Debug\net8.0\9.While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\9.While\obj\Debug\net8.0\9.While.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\9.While\obj\Debug\net8.0\9.While.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\9.While\obj\Debug\net8.0\9.While.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\9.While\obj\Debug\net8.0\9.While.sourcelink.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\9.While\obj\Debug\net8.0\9.While.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\9.While\obj\Debug\net8.0\refint\9.While.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\9.While\obj\Debug\net8.0\9.While.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\9.While\obj\Debug\net8.0\9.While.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\9.While\obj\Debug\net8.0\ref\9.While.dll

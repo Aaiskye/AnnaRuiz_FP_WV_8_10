@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialArreglos_AnnaRuiz\obj\Debug\net8.0\ParcialArreglos_AnnaRuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialArreglos_AnnaRuiz\obj\Debug\net8.0\ParcialArreglos_AnnaRuiz.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialArreglos_AnnaRuiz\obj\Debug\net8.0\ParcialArreglos_AnnaRuiz.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialArreglos_AnnaRuiz\obj\Debug\net8.0\ParcialArreglos_AnnaRuiz.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialArreglos_AnnaRuiz\obj\Debug\net8.0\ParcialArreglos_AnnaRuiz.sourcelink.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialArreglos_AnnaRuiz\bin\Debug\net8.0\ParcialArreglos_AnnaRuiz.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialArreglos_AnnaRuiz\bin\Debug\net8.0\ParcialArreglos_AnnaRuiz.deps.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialArreglos_AnnaRuiz\bin\Debug\net8.0\ParcialArreglos_AnnaRuiz.runtimeconfig.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialArreglos_AnnaRuiz\bin\Debug\net8.0\ParcialArreglos_AnnaRuiz.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialArreglos_AnnaRuiz\bin\Debug\net8.0\ParcialArreglos_AnnaRuiz.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialArreglos_AnnaRuiz\obj\Debug\net8.0\ParcialArreglos_AnnaRuiz.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialArreglos_AnnaRuiz\obj\Debug\net8.0\refint\ParcialArreglos_AnnaRuiz.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialArreglos_AnnaRuiz\obj\Debug\net8.0\ParcialArreglos_AnnaRuiz.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialArreglos_AnnaRuiz\obj\Debug\net8.0\ParcialArreglos_AnnaRuiz.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialArreglos_AnnaRuiz\obj\Debug\net8.0\ref\ParcialArreglos_AnnaRuiz.dll

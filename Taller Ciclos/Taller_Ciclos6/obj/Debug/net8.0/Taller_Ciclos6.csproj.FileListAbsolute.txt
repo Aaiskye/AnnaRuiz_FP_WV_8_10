@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos6\bin\Debug\net8.0\Taller_Ciclos6.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos6\bin\Debug\net8.0\Taller_Ciclos6.deps.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos6\bin\Debug\net8.0\Taller_Ciclos6.runtimeconfig.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos6\bin\Debug\net8.0\Taller_Ciclos6.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos6\bin\Debug\net8.0\Taller_Ciclos6.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos6\obj\Debug\net8.0\Taller_Ciclos6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos6\obj\Debug\net8.0\Taller_Ciclos6.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos6\obj\Debug\net8.0\Taller_Ciclos6.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos6\obj\Debug\net8.0\Taller_Ciclos6.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos6\obj\Debug\net8.0\Taller_Ciclos6.sourcelink.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos6\obj\Debug\net8.0\Taller_Ciclos6.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos6\obj\Debug\net8.0\refint\Taller_Ciclos6.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos6\obj\Debug\net8.0\Taller_Ciclos6.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos6\obj\Debug\net8.0\Taller_Ciclos6.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos6\obj\Debug\net8.0\ref\Taller_Ciclos6.dll

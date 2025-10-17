@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\11.EnterosPositivos\bin\Debug\net8.0\11.EnterosPositivos.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\11.EnterosPositivos\bin\Debug\net8.0\11.EnterosPositivos.deps.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\11.EnterosPositivos\bin\Debug\net8.0\11.EnterosPositivos.runtimeconfig.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\11.EnterosPositivos\bin\Debug\net8.0\11.EnterosPositivos.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\11.EnterosPositivos\bin\Debug\net8.0\11.EnterosPositivos.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\11.EnterosPositivos\obj\Debug\net8.0\11.EnterosPositivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\11.EnterosPositivos\obj\Debug\net8.0\11.EnterosPositivos.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\11.EnterosPositivos\obj\Debug\net8.0\11.EnterosPositivos.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\11.EnterosPositivos\obj\Debug\net8.0\11.EnterosPositivos.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\11.EnterosPositivos\obj\Debug\net8.0\11.EnterosPositivos.sourcelink.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\11.EnterosPositivos\obj\Debug\net8.0\11.EnterosPositivos.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\11.EnterosPositivos\obj\Debug\net8.0\refint\11.EnterosPositivos.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\11.EnterosPositivos\obj\Debug\net8.0\11.EnterosPositivos.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\11.EnterosPositivos\obj\Debug\net8.0\11.EnterosPositivos.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\11.EnterosPositivos\obj\Debug\net8.0\ref\11.EnterosPositivos.dll

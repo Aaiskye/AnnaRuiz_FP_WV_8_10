@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\12.SumaImpares99\bin\Debug\net8.0\12.SumaImpares99.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\12.SumaImpares99\bin\Debug\net8.0\12.SumaImpares99.deps.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\12.SumaImpares99\bin\Debug\net8.0\12.SumaImpares99.runtimeconfig.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\12.SumaImpares99\bin\Debug\net8.0\12.SumaImpares99.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\12.SumaImpares99\bin\Debug\net8.0\12.SumaImpares99.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\12.SumaImpares99\obj\Debug\net8.0\12.SumaImpares99.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\12.SumaImpares99\obj\Debug\net8.0\12.SumaImpares99.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\12.SumaImpares99\obj\Debug\net8.0\12.SumaImpares99.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\12.SumaImpares99\obj\Debug\net8.0\12.SumaImpares99.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\12.SumaImpares99\obj\Debug\net8.0\12.SumaImpares99.sourcelink.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\12.SumaImpares99\obj\Debug\net8.0\12.SumaImpares99.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\12.SumaImpares99\obj\Debug\net8.0\refint\12.SumaImpares99.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\12.SumaImpares99\obj\Debug\net8.0\12.SumaImpares99.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\12.SumaImpares99\obj\Debug\net8.0\12.SumaImpares99.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\12.SumaImpares99\obj\Debug\net8.0\ref\12.SumaImpares99.dll

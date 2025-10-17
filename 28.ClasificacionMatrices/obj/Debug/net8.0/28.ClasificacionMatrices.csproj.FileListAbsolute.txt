@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\28.ClasificacionMatrices\bin\Debug\net8.0\28.ClasificacionMatrices.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\28.ClasificacionMatrices\bin\Debug\net8.0\28.ClasificacionMatrices.deps.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\28.ClasificacionMatrices\bin\Debug\net8.0\28.ClasificacionMatrices.runtimeconfig.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\28.ClasificacionMatrices\bin\Debug\net8.0\28.ClasificacionMatrices.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\28.ClasificacionMatrices\bin\Debug\net8.0\28.ClasificacionMatrices.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\28.ClasificacionMatrices\obj\Debug\net8.0\28.ClasificacionMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\28.ClasificacionMatrices\obj\Debug\net8.0\28.ClasificacionMatrices.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\28.ClasificacionMatrices\obj\Debug\net8.0\28.ClasificacionMatrices.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\28.ClasificacionMatrices\obj\Debug\net8.0\28.ClasificacionMatrices.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\28.ClasificacionMatrices\obj\Debug\net8.0\28.ClasificacionMatrices.sourcelink.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\28.ClasificacionMatrices\obj\Debug\net8.0\28.ClasificacionMatrices.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\28.ClasificacionMatrices\obj\Debug\net8.0\refint\28.ClasificacionMatrices.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\28.ClasificacionMatrices\obj\Debug\net8.0\28.ClasificacionMatrices.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\28.ClasificacionMatrices\obj\Debug\net8.0\28.ClasificacionMatrices.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\28.ClasificacionMatrices\obj\Debug\net8.0\ref\28.ClasificacionMatrices.dll

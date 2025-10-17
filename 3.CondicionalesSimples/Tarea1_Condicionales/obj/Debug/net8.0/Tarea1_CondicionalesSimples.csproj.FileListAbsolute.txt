@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea1_CondicionalesSimples\bin\Debug\net8.0\Tarea1_CondicionalesSimples.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea1_CondicionalesSimples\bin\Debug\net8.0\Tarea1_CondicionalesSimples.deps.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea1_CondicionalesSimples\bin\Debug\net8.0\Tarea1_CondicionalesSimples.runtimeconfig.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea1_CondicionalesSimples\bin\Debug\net8.0\Tarea1_CondicionalesSimples.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea1_CondicionalesSimples\bin\Debug\net8.0\Tarea1_CondicionalesSimples.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea1_CondicionalesSimples\obj\Debug\net8.0\Tarea1_CondicionalesSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea1_CondicionalesSimples\obj\Debug\net8.0\Tarea1_CondicionalesSimples.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea1_CondicionalesSimples\obj\Debug\net8.0\Tarea1_CondicionalesSimples.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea1_CondicionalesSimples\obj\Debug\net8.0\Tarea1_CondicionalesSimples.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea1_CondicionalesSimples\obj\Debug\net8.0\Tarea1_CondicionalesSimples.sourcelink.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea1_CondicionalesSimples\obj\Debug\net8.0\Tarea1_CondicionalesSimples.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea1_CondicionalesSimples\obj\Debug\net8.0\refint\Tarea1_CondicionalesSimples.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea1_CondicionalesSimples\obj\Debug\net8.0\Tarea1_CondicionalesSimples.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea1_CondicionalesSimples\obj\Debug\net8.0\Tarea1_CondicionalesSimples.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea1_CondicionalesSimples\obj\Debug\net8.0\ref\Tarea1_CondicionalesSimples.dll

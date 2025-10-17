@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea2_Promedios\obj\Debug\net8.0\Tarea2_Promedios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea2_Promedios\obj\Debug\net8.0\Tarea2_Promedios.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea2_Promedios\obj\Debug\net8.0\Tarea2_Promedios.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea2_Promedios\obj\Debug\net8.0\Tarea2_Promedios.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea2_Promedios\obj\Debug\net8.0\Tarea2_Promedios.sourcelink.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea2_Promedios\bin\Debug\net8.0\Tarea2_Promedios.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea2_Promedios\bin\Debug\net8.0\Tarea2_Promedios.deps.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea2_Promedios\bin\Debug\net8.0\Tarea2_Promedios.runtimeconfig.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea2_Promedios\bin\Debug\net8.0\Tarea2_Promedios.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea2_Promedios\bin\Debug\net8.0\Tarea2_Promedios.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea2_Promedios\obj\Debug\net8.0\Tarea2_Promedios.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea2_Promedios\obj\Debug\net8.0\refint\Tarea2_Promedios.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea2_Promedios\obj\Debug\net8.0\Tarea2_Promedios.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea2_Promedios\obj\Debug\net8.0\Tarea2_Promedios.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Tarea2_Promedios\obj\Debug\net8.0\ref\Tarea2_Promedios.dll

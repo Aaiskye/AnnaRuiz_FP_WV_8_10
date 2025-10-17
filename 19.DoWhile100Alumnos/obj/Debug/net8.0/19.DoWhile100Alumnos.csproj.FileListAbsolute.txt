@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\19.DoWhile100Alumnos\bin\Debug\net8.0\19.DoWhile100Alumnos.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\19.DoWhile100Alumnos\bin\Debug\net8.0\19.DoWhile100Alumnos.deps.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\19.DoWhile100Alumnos\bin\Debug\net8.0\19.DoWhile100Alumnos.runtimeconfig.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\19.DoWhile100Alumnos\bin\Debug\net8.0\19.DoWhile100Alumnos.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\19.DoWhile100Alumnos\bin\Debug\net8.0\19.DoWhile100Alumnos.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\19.DoWhile100Alumnos\obj\Debug\net8.0\19.DoWhile100Alumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\19.DoWhile100Alumnos\obj\Debug\net8.0\19.DoWhile100Alumnos.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\19.DoWhile100Alumnos\obj\Debug\net8.0\19.DoWhile100Alumnos.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\19.DoWhile100Alumnos\obj\Debug\net8.0\19.DoWhile100Alumnos.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\19.DoWhile100Alumnos\obj\Debug\net8.0\19.DoWhile100Alumnos.sourcelink.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\19.DoWhile100Alumnos\obj\Debug\net8.0\19.DoWhile100Alumnos.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\19.DoWhile100Alumnos\obj\Debug\net8.0\refint\19.DoWhile100Alumnos.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\19.DoWhile100Alumnos\obj\Debug\net8.0\19.DoWhile100Alumnos.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\19.DoWhile100Alumnos\obj\Debug\net8.0\19.DoWhile100Alumnos.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\19.DoWhile100Alumnos\obj\Debug\net8.0\ref\19.DoWhile100Alumnos.dll

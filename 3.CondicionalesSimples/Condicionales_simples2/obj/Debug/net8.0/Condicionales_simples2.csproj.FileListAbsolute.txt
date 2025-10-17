@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Condicionales_simples2\bin\Debug\net8.0\Condicionales_simples2.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Condicionales_simples2\bin\Debug\net8.0\Condicionales_simples2.deps.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Condicionales_simples2\bin\Debug\net8.0\Condicionales_simples2.runtimeconfig.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Condicionales_simples2\bin\Debug\net8.0\Condicionales_simples2.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Condicionales_simples2\bin\Debug\net8.0\Condicionales_simples2.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Condicionales_simples2\obj\Debug\net8.0\Condicionales_simples2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Condicionales_simples2\obj\Debug\net8.0\Condicionales_simples2.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Condicionales_simples2\obj\Debug\net8.0\Condicionales_simples2.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Condicionales_simples2\obj\Debug\net8.0\Condicionales_simples2.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Condicionales_simples2\obj\Debug\net8.0\Condicionales_simples2.sourcelink.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Condicionales_simples2\obj\Debug\net8.0\Condicionales_simples2.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Condicionales_simples2\obj\Debug\net8.0\refint\Condicionales_simples2.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Condicionales_simples2\obj\Debug\net8.0\Condicionales_simples2.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Condicionales_simples2\obj\Debug\net8.0\Condicionales_simples2.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Condicionales_simples2\obj\Debug\net8.0\ref\Condicionales_simples2.dll

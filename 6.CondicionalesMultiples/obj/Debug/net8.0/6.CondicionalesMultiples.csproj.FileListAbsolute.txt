@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\6.CondicionalesMultiples\bin\Debug\net8.0\6.CondicionalesMultiples.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\6.CondicionalesMultiples\bin\Debug\net8.0\6.CondicionalesMultiples.deps.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\6.CondicionalesMultiples\bin\Debug\net8.0\6.CondicionalesMultiples.runtimeconfig.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\6.CondicionalesMultiples\bin\Debug\net8.0\6.CondicionalesMultiples.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\6.CondicionalesMultiples\bin\Debug\net8.0\6.CondicionalesMultiples.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\6.CondicionalesMultiples\obj\Debug\net8.0\6.CondicionalesMultiples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\6.CondicionalesMultiples\obj\Debug\net8.0\6.CondicionalesMultiples.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\6.CondicionalesMultiples\obj\Debug\net8.0\6.CondicionalesMultiples.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\6.CondicionalesMultiples\obj\Debug\net8.0\6.CondicionalesMultiples.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\6.CondicionalesMultiples\obj\Debug\net8.0\6.CondicionalesMultiples.sourcelink.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\6.CondicionalesMultiples\obj\Debug\net8.0\6.CondicionalesMultiples.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\6.CondicionalesMultiples\obj\Debug\net8.0\refint\6.CondicionalesMultiples.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\6.CondicionalesMultiples\obj\Debug\net8.0\6.CondicionalesMultiples.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\6.CondicionalesMultiples\obj\Debug\net8.0\6.CondicionalesMultiples.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\6.CondicionalesMultiples\obj\Debug\net8.0\ref\6.CondicionalesMultiples.dll

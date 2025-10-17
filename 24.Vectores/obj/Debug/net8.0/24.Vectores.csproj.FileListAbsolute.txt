@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\24.Vectores\bin\Debug\net8.0\24.Vectores.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\24.Vectores\bin\Debug\net8.0\24.Vectores.deps.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\24.Vectores\bin\Debug\net8.0\24.Vectores.runtimeconfig.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\24.Vectores\bin\Debug\net8.0\24.Vectores.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\24.Vectores\bin\Debug\net8.0\24.Vectores.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\24.Vectores\obj\Debug\net8.0\24.Vectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\24.Vectores\obj\Debug\net8.0\24.Vectores.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\24.Vectores\obj\Debug\net8.0\24.Vectores.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\24.Vectores\obj\Debug\net8.0\24.Vectores.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\24.Vectores\obj\Debug\net8.0\24.Vectores.sourcelink.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\24.Vectores\obj\Debug\net8.0\24.Vectores.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\24.Vectores\obj\Debug\net8.0\refint\24.Vectores.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\24.Vectores\obj\Debug\net8.0\24.Vectores.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\24.Vectores\obj\Debug\net8.0\24.Vectores.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\24.Vectores\obj\Debug\net8.0\ref\24.Vectores.dll

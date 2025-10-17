@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\18.DoWhileSaldoCuenta\bin\Debug\net8.0\18.DoWhileSaldoCuenta.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\18.DoWhileSaldoCuenta\bin\Debug\net8.0\18.DoWhileSaldoCuenta.deps.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\18.DoWhileSaldoCuenta\bin\Debug\net8.0\18.DoWhileSaldoCuenta.runtimeconfig.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\18.DoWhileSaldoCuenta\bin\Debug\net8.0\18.DoWhileSaldoCuenta.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\18.DoWhileSaldoCuenta\bin\Debug\net8.0\18.DoWhileSaldoCuenta.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\18.DoWhileSaldoCuenta\obj\Debug\net8.0\18.DoWhileSaldoCuenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\18.DoWhileSaldoCuenta\obj\Debug\net8.0\18.DoWhileSaldoCuenta.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\18.DoWhileSaldoCuenta\obj\Debug\net8.0\18.DoWhileSaldoCuenta.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\18.DoWhileSaldoCuenta\obj\Debug\net8.0\18.DoWhileSaldoCuenta.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\18.DoWhileSaldoCuenta\obj\Debug\net8.0\18.DoWhileSaldoCuenta.sourcelink.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\18.DoWhileSaldoCuenta\obj\Debug\net8.0\18.DoWhileSaldoCuenta.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\18.DoWhileSaldoCuenta\obj\Debug\net8.0\refint\18.DoWhileSaldoCuenta.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\18.DoWhileSaldoCuenta\obj\Debug\net8.0\18.DoWhileSaldoCuenta.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\18.DoWhileSaldoCuenta\obj\Debug\net8.0\18.DoWhileSaldoCuenta.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\18.DoWhileSaldoCuenta\obj\Debug\net8.0\ref\18.DoWhileSaldoCuenta.dll

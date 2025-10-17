@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\4.Condicionales_Compuestos_Ej2\bin\Debug\net8.0\4.Condicionales_Compuestos_Ej2.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\4.Condicionales_Compuestos_Ej2\bin\Debug\net8.0\4.Condicionales_Compuestos_Ej2.deps.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\4.Condicionales_Compuestos_Ej2\bin\Debug\net8.0\4.Condicionales_Compuestos_Ej2.runtimeconfig.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\4.Condicionales_Compuestos_Ej2\bin\Debug\net8.0\4.Condicionales_Compuestos_Ej2.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\4.Condicionales_Compuestos_Ej2\bin\Debug\net8.0\4.Condicionales_Compuestos_Ej2.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\4.Condicionales_Compuestos_Ej2\obj\Debug\net8.0\4.Condicionales_Compuestos_Ej2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\4.Condicionales_Compuestos_Ej2\obj\Debug\net8.0\4.Condicionales_Compuestos_Ej2.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\4.Condicionales_Compuestos_Ej2\obj\Debug\net8.0\4.Condicionales_Compuestos_Ej2.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\4.Condicionales_Compuestos_Ej2\obj\Debug\net8.0\4.Condicionales_Compuestos_Ej2.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\4.Condicionales_Compuestos_Ej2\obj\Debug\net8.0\4.Condicionales_Compuestos_Ej2.sourcelink.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\4.Condicionales_Compuestos_Ej2\obj\Debug\net8.0\4.Condicionales_Compuestos_Ej2.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\4.Condicionales_Compuestos_Ej2\obj\Debug\net8.0\refint\4.Condicionales_Compuestos_Ej2.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\4.Condicionales_Compuestos_Ej2\obj\Debug\net8.0\4.Condicionales_Compuestos_Ej2.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\4.Condicionales_Compuestos_Ej2\obj\Debug\net8.0\4.Condicionales_Compuestos_Ej2.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\4.Condicionales_Compuestos_Ej2\obj\Debug\net8.0\ref\4.Condicionales_Compuestos_Ej2.dll

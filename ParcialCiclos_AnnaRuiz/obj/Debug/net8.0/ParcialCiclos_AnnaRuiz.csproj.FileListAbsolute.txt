@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCiclos_AnnaRuiz\bin\Debug\net8.0\ParcialCiclos_AnnaRuiz.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCiclos_AnnaRuiz\bin\Debug\net8.0\ParcialCiclos_AnnaRuiz.deps.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCiclos_AnnaRuiz\bin\Debug\net8.0\ParcialCiclos_AnnaRuiz.runtimeconfig.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCiclos_AnnaRuiz\bin\Debug\net8.0\ParcialCiclos_AnnaRuiz.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCiclos_AnnaRuiz\bin\Debug\net8.0\ParcialCiclos_AnnaRuiz.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCiclos_AnnaRuiz\obj\Debug\net8.0\ParcialCiclos_AnnaRuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCiclos_AnnaRuiz\obj\Debug\net8.0\ParcialCiclos_AnnaRuiz.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCiclos_AnnaRuiz\obj\Debug\net8.0\ParcialCiclos_AnnaRuiz.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCiclos_AnnaRuiz\obj\Debug\net8.0\ParcialCiclos_AnnaRuiz.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCiclos_AnnaRuiz\obj\Debug\net8.0\ParcialCiclos_AnnaRuiz.sourcelink.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCiclos_AnnaRuiz\obj\Debug\net8.0\ParcialCiclos_AnnaRuiz.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCiclos_AnnaRuiz\obj\Debug\net8.0\refint\ParcialCiclos_AnnaRuiz.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCiclos_AnnaRuiz\obj\Debug\net8.0\ParcialCiclos_AnnaRuiz.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCiclos_AnnaRuiz\obj\Debug\net8.0\ParcialCiclos_AnnaRuiz.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCiclos_AnnaRuiz\obj\Debug\net8.0\ref\ParcialCiclos_AnnaRuiz.dll

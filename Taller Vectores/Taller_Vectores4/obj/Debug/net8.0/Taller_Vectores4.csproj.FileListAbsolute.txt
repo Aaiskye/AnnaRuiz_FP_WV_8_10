@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller Vectores\Taller_Vectores4\bin\Debug\net8.0\Taller_Vectores4.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller Vectores\Taller_Vectores4\bin\Debug\net8.0\Taller_Vectores4.deps.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller Vectores\Taller_Vectores4\bin\Debug\net8.0\Taller_Vectores4.runtimeconfig.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller Vectores\Taller_Vectores4\bin\Debug\net8.0\Taller_Vectores4.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller Vectores\Taller_Vectores4\bin\Debug\net8.0\Taller_Vectores4.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller Vectores\Taller_Vectores4\obj\Debug\net8.0\Taller_Vectores4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller Vectores\Taller_Vectores4\obj\Debug\net8.0\Taller_Vectores4.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller Vectores\Taller_Vectores4\obj\Debug\net8.0\Taller_Vectores4.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller Vectores\Taller_Vectores4\obj\Debug\net8.0\Taller_Vectores4.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller Vectores\Taller_Vectores4\obj\Debug\net8.0\Taller_Vectores4.sourcelink.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller Vectores\Taller_Vectores4\obj\Debug\net8.0\Taller_Vectores4.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller Vectores\Taller_Vectores4\obj\Debug\net8.0\refint\Taller_Vectores4.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller Vectores\Taller_Vectores4\obj\Debug\net8.0\Taller_Vectores4.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller Vectores\Taller_Vectores4\obj\Debug\net8.0\Taller_Vectores4.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller Vectores\Taller_Vectores4\obj\Debug\net8.0\ref\Taller_Vectores4.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tarea2_Promedios/1.0.0": {
+        "runtime": {
+          "Tarea2_Promedios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarea2_Promedios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

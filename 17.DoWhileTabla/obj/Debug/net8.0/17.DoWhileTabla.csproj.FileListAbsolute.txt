@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\17.DoWhileTabla\bin\Debug\net8.0\17.DoWhileTabla.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\17.DoWhileTabla\bin\Debug\net8.0\17.DoWhileTabla.deps.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\17.DoWhileTabla\bin\Debug\net8.0\17.DoWhileTabla.runtimeconfig.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\17.DoWhileTabla\bin\Debug\net8.0\17.DoWhileTabla.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\17.DoWhileTabla\bin\Debug\net8.0\17.DoWhileTabla.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\17.DoWhileTabla\obj\Debug\net8.0\17.DoWhileTabla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\17.DoWhileTabla\obj\Debug\net8.0\17.DoWhileTabla.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\17.DoWhileTabla\obj\Debug\net8.0\17.DoWhileTabla.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\17.DoWhileTabla\obj\Debug\net8.0\17.DoWhileTabla.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\17.DoWhileTabla\obj\Debug\net8.0\17.DoWhileTabla.sourcelink.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\17.DoWhileTabla\obj\Debug\net8.0\17.DoWhileTabla.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\17.DoWhileTabla\obj\Debug\net8.0\refint\17.DoWhileTabla.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\17.DoWhileTabla\obj\Debug\net8.0\17.DoWhileTabla.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\17.DoWhileTabla\obj\Debug\net8.0\17.DoWhileTabla.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\17.DoWhileTabla\obj\Debug\net8.0\ref\17.DoWhileTabla.dll

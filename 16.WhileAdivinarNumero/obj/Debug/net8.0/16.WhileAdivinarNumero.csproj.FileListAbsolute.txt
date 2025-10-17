@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\16.WhileAdivinarNumero\bin\Debug\net8.0\16.WhileAdivinarNumero.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\16.WhileAdivinarNumero\bin\Debug\net8.0\16.WhileAdivinarNumero.deps.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\16.WhileAdivinarNumero\bin\Debug\net8.0\16.WhileAdivinarNumero.runtimeconfig.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\16.WhileAdivinarNumero\bin\Debug\net8.0\16.WhileAdivinarNumero.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\16.WhileAdivinarNumero\bin\Debug\net8.0\16.WhileAdivinarNumero.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\16.WhileAdivinarNumero\obj\Debug\net8.0\16.WhileAdivinarNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\16.WhileAdivinarNumero\obj\Debug\net8.0\16.WhileAdivinarNumero.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\16.WhileAdivinarNumero\obj\Debug\net8.0\16.WhileAdivinarNumero.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\16.WhileAdivinarNumero\obj\Debug\net8.0\16.WhileAdivinarNumero.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\16.WhileAdivinarNumero\obj\Debug\net8.0\16.WhileAdivinarNumero.sourcelink.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\16.WhileAdivinarNumero\obj\Debug\net8.0\16.WhileAdivinarNumero.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\16.WhileAdivinarNumero\obj\Debug\net8.0\refint\16.WhileAdivinarNumero.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\16.WhileAdivinarNumero\obj\Debug\net8.0\16.WhileAdivinarNumero.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\16.WhileAdivinarNumero\obj\Debug\net8.0\16.WhileAdivinarNumero.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\16.WhileAdivinarNumero\obj\Debug\net8.0\ref\16.WhileAdivinarNumero.dll

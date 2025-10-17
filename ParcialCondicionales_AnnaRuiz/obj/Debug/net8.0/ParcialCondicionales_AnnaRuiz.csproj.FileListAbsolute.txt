@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCondicionales_AnnaRuiz\bin\Debug\net8.0\ParcialCondicionales_AnnaRuiz.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCondicionales_AnnaRuiz\bin\Debug\net8.0\ParcialCondicionales_AnnaRuiz.deps.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCondicionales_AnnaRuiz\bin\Debug\net8.0\ParcialCondicionales_AnnaRuiz.runtimeconfig.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCondicionales_AnnaRuiz\bin\Debug\net8.0\ParcialCondicionales_AnnaRuiz.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCondicionales_AnnaRuiz\bin\Debug\net8.0\ParcialCondicionales_AnnaRuiz.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCondicionales_AnnaRuiz\obj\Debug\net8.0\ParcialCondicionales_AnnaRuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCondicionales_AnnaRuiz\obj\Debug\net8.0\ParcialCondicionales_AnnaRuiz.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCondicionales_AnnaRuiz\obj\Debug\net8.0\ParcialCondicionales_AnnaRuiz.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCondicionales_AnnaRuiz\obj\Debug\net8.0\ParcialCondicionales_AnnaRuiz.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCondicionales_AnnaRuiz\obj\Debug\net8.0\ParcialCondicionales_AnnaRuiz.sourcelink.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCondicionales_AnnaRuiz\obj\Debug\net8.0\ParcialCondicionales_AnnaRuiz.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCondicionales_AnnaRuiz\obj\Debug\net8.0\refint\ParcialCondicionales_AnnaRuiz.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCondicionales_AnnaRuiz\obj\Debug\net8.0\ParcialCondicionales_AnnaRuiz.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCondicionales_AnnaRuiz\obj\Debug\net8.0\ParcialCondicionales_AnnaRuiz.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\ParcialCondicionales_AnnaRuiz\obj\Debug\net8.0\ref\ParcialCondicionales_AnnaRuiz.dll

@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\13.WhileAzar\bin\Debug\net8.0\13.WhileAzar.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\13.WhileAzar\bin\Debug\net8.0\13.WhileAzar.deps.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\13.WhileAzar\bin\Debug\net8.0\13.WhileAzar.runtimeconfig.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\13.WhileAzar\bin\Debug\net8.0\13.WhileAzar.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\13.WhileAzar\bin\Debug\net8.0\13.WhileAzar.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\13.WhileAzar\obj\Debug\net8.0\13.WhileAzar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\13.WhileAzar\obj\Debug\net8.0\13.WhileAzar.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\13.WhileAzar\obj\Debug\net8.0\13.WhileAzar.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\13.WhileAzar\obj\Debug\net8.0\13.WhileAzar.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\13.WhileAzar\obj\Debug\net8.0\13.WhileAzar.sourcelink.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\13.WhileAzar\obj\Debug\net8.0\13.WhileAzar.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\13.WhileAzar\obj\Debug\net8.0\refint\13.WhileAzar.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\13.WhileAzar\obj\Debug\net8.0\13.WhileAzar.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\13.WhileAzar\obj\Debug\net8.0\13.WhileAzar.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\13.WhileAzar\obj\Debug\net8.0\ref\13.WhileAzar.dll

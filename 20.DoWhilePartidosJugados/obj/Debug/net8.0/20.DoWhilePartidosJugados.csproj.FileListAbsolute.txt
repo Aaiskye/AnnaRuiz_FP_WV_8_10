@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\20.DoWhilePartidosJugados\bin\Debug\net8.0\20.DoWhilePartidosJugados.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\20.DoWhilePartidosJugados\bin\Debug\net8.0\20.DoWhilePartidosJugados.deps.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\20.DoWhilePartidosJugados\bin\Debug\net8.0\20.DoWhilePartidosJugados.runtimeconfig.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\20.DoWhilePartidosJugados\bin\Debug\net8.0\20.DoWhilePartidosJugados.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\20.DoWhilePartidosJugados\bin\Debug\net8.0\20.DoWhilePartidosJugados.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\20.DoWhilePartidosJugados\obj\Debug\net8.0\20.DoWhilePartidosJugados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\20.DoWhilePartidosJugados\obj\Debug\net8.0\20.DoWhilePartidosJugados.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\20.DoWhilePartidosJugados\obj\Debug\net8.0\20.DoWhilePartidosJugados.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\20.DoWhilePartidosJugados\obj\Debug\net8.0\20.DoWhilePartidosJugados.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\20.DoWhilePartidosJugados\obj\Debug\net8.0\20.DoWhilePartidosJugados.sourcelink.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\20.DoWhilePartidosJugados\obj\Debug\net8.0\20.DoWhilePartidosJugados.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\20.DoWhilePartidosJugados\obj\Debug\net8.0\refint\20.DoWhilePartidosJugados.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\20.DoWhilePartidosJugados\obj\Debug\net8.0\20.DoWhilePartidosJugados.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\20.DoWhilePartidosJugados\obj\Debug\net8.0\20.DoWhilePartidosJugados.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\20.DoWhilePartidosJugados\obj\Debug\net8.0\ref\20.DoWhilePartidosJugados.dll

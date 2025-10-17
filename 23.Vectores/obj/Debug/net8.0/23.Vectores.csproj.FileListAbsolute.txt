@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\23.Vectores\bin\Debug\net8.0\23.Vectores.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\23.Vectores\bin\Debug\net8.0\23.Vectores.deps.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\23.Vectores\bin\Debug\net8.0\23.Vectores.runtimeconfig.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\23.Vectores\bin\Debug\net8.0\23.Vectores.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\23.Vectores\bin\Debug\net8.0\23.Vectores.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\23.Vectores\obj\Debug\net8.0\23.Vectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\23.Vectores\obj\Debug\net8.0\23.Vectores.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\23.Vectores\obj\Debug\net8.0\23.Vectores.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\23.Vectores\obj\Debug\net8.0\23.Vectores.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\23.Vectores\obj\Debug\net8.0\23.Vectores.sourcelink.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\23.Vectores\obj\Debug\net8.0\23.Vectores.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\23.Vectores\obj\Debug\net8.0\refint\23.Vectores.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\23.Vectores\obj\Debug\net8.0\23.Vectores.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\23.Vectores\obj\Debug\net8.0\23.Vectores.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\23.Vectores\obj\Debug\net8.0\ref\23.Vectores.dll

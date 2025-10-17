@@ -1,0 +1,8 @@
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\4.condicionales\bin\Debug\4.condicionales.exe.config
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\4.condicionales\bin\Debug\4.condicionales.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\4.condicionales\bin\Debug\4.condicionales.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\4.condicionales\obj\Debug\4.condicionales.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\4.condicionales\obj\Debug\4.condicionales.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\4.condicionales\obj\Debug\4.condicionales.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\4.condicionales\obj\Debug\4.condicionales.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\4.condicionales\obj\Debug\4.condicionales.exe.config

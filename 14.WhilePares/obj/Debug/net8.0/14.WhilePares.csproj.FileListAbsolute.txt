@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\14.WhilePares\bin\Debug\net8.0\14.WhilePares.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\14.WhilePares\bin\Debug\net8.0\14.WhilePares.deps.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\14.WhilePares\bin\Debug\net8.0\14.WhilePares.runtimeconfig.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\14.WhilePares\bin\Debug\net8.0\14.WhilePares.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\14.WhilePares\bin\Debug\net8.0\14.WhilePares.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\14.WhilePares\obj\Debug\net8.0\14.WhilePares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\14.WhilePares\obj\Debug\net8.0\14.WhilePares.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\14.WhilePares\obj\Debug\net8.0\14.WhilePares.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\14.WhilePares\obj\Debug\net8.0\14.WhilePares.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\14.WhilePares\obj\Debug\net8.0\14.WhilePares.sourcelink.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\14.WhilePares\obj\Debug\net8.0\14.WhilePares.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\14.WhilePares\obj\Debug\net8.0\refint\14.WhilePares.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\14.WhilePares\obj\Debug\net8.0\14.WhilePares.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\14.WhilePares\obj\Debug\net8.0\14.WhilePares.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\14.WhilePares\obj\Debug\net8.0\ref\14.WhilePares.dll

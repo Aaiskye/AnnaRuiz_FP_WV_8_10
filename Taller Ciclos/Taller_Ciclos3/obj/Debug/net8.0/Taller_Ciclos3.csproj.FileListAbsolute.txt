@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos3\bin\Debug\net8.0\Taller_Ciclos3.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos3\bin\Debug\net8.0\Taller_Ciclos3.deps.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos3\bin\Debug\net8.0\Taller_Ciclos3.runtimeconfig.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos3\bin\Debug\net8.0\Taller_Ciclos3.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos3\bin\Debug\net8.0\Taller_Ciclos3.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos3\obj\Debug\net8.0\Taller_Ciclos3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos3\obj\Debug\net8.0\Taller_Ciclos3.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos3\obj\Debug\net8.0\Taller_Ciclos3.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos3\obj\Debug\net8.0\Taller_Ciclos3.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos3\obj\Debug\net8.0\Taller_Ciclos3.sourcelink.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos3\obj\Debug\net8.0\Taller_Ciclos3.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos3\obj\Debug\net8.0\refint\Taller_Ciclos3.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos3\obj\Debug\net8.0\Taller_Ciclos3.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos3\obj\Debug\net8.0\Taller_Ciclos3.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\Programacion\Taller_Ciclos3\obj\Debug\net8.0\ref\Taller_Ciclos3.dll
