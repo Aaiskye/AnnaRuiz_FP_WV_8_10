@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Universidad\2 semestre\AnnaRuizFP_MV_8_10\AnnaRuiz_FP_WV_8_10\Taller Matrices\Taller_Matrices1\bin\Debug\net8.0\Taller_Matrices1.exe
+C:\Users\MSI\Desktop\Universidad\2 semestre\AnnaRuizFP_MV_8_10\AnnaRuiz_FP_WV_8_10\Taller Matrices\Taller_Matrices1\bin\Debug\net8.0\Taller_Matrices1.deps.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\AnnaRuizFP_MV_8_10\AnnaRuiz_FP_WV_8_10\Taller Matrices\Taller_Matrices1\bin\Debug\net8.0\Taller_Matrices1.runtimeconfig.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\AnnaRuizFP_MV_8_10\AnnaRuiz_FP_WV_8_10\Taller Matrices\Taller_Matrices1\bin\Debug\net8.0\Taller_Matrices1.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\AnnaRuizFP_MV_8_10\AnnaRuiz_FP_WV_8_10\Taller Matrices\Taller_Matrices1\bin\Debug\net8.0\Taller_Matrices1.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\AnnaRuizFP_MV_8_10\AnnaRuiz_FP_WV_8_10\Taller Matrices\Taller_Matrices1\obj\Debug\net8.0\Taller_Matrices1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Universidad\2 semestre\AnnaRuizFP_MV_8_10\AnnaRuiz_FP_WV_8_10\Taller Matrices\Taller_Matrices1\obj\Debug\net8.0\Taller_Matrices1.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\AnnaRuizFP_MV_8_10\AnnaRuiz_FP_WV_8_10\Taller Matrices\Taller_Matrices1\obj\Debug\net8.0\Taller_Matrices1.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Universidad\2 semestre\AnnaRuizFP_MV_8_10\AnnaRuiz_FP_WV_8_10\Taller Matrices\Taller_Matrices1\obj\Debug\net8.0\Taller_Matrices1.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\AnnaRuizFP_MV_8_10\AnnaRuiz_FP_WV_8_10\Taller Matrices\Taller_Matrices1\obj\Debug\net8.0\Taller_Matrices1.sourcelink.json
+C:\Users\MSI\Desktop\Universidad\2 semestre\AnnaRuizFP_MV_8_10\AnnaRuiz_FP_WV_8_10\Taller Matrices\Taller_Matrices1\obj\Debug\net8.0\Taller_Matrices1.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\AnnaRuizFP_MV_8_10\AnnaRuiz_FP_WV_8_10\Taller Matrices\Taller_Matrices1\obj\Debug\net8.0\refint\Taller_Matrices1.dll
+C:\Users\MSI\Desktop\Universidad\2 semestre\AnnaRuizFP_MV_8_10\AnnaRuiz_FP_WV_8_10\Taller Matrices\Taller_Matrices1\obj\Debug\net8.0\Taller_Matrices1.pdb
+C:\Users\MSI\Desktop\Universidad\2 semestre\AnnaRuizFP_MV_8_10\AnnaRuiz_FP_WV_8_10\Taller Matrices\Taller_Matrices1\obj\Debug\net8.0\Taller_Matrices1.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Universidad\2 semestre\AnnaRuizFP_MV_8_10\AnnaRuiz_FP_WV_8_10\Taller Matrices\Taller_Matrices1\obj\Debug\net8.0\ref\Taller_Matrices1.dll

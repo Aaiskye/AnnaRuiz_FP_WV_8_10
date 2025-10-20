@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\Universidad\\2 semestre\\AnnaRuizFP_MV_8_10\\AnnaRuiz_FP_WV_8_10\\Taller Matrices\\Taller_Matrices1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4B1B6A-5150-4179-8386-54D039962E68}|Taller_Matrices1.csproj|c:\\users\\msi\\desktop\\universidad\\2 semestre\\annaruizfp_mv_8_10\\annaruiz_fp_wv_8_10\\taller matrices\\taller_matrices1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4B1B6A-5150-4179-8386-54D039962E68}|Taller_Matrices1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Universidad\\2 semestre\\AnnaRuizFP_MV_8_10\\AnnaRuiz_FP_WV_8_10\\Taller Matrices\\Taller_Matrices1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Universidad\\2 semestre\\AnnaRuizFP_MV_8_10\\AnnaRuiz_FP_WV_8_10\\Taller Matrices\\Taller_Matrices1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T02:38:15.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
